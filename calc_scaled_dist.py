@@ -1,4 +1,5 @@
 # All the methods needed to calculate the scaled distance within follicle and corpus luteum objects
+# by Sophia Szady
 def distance(p1, p2):
     """ Calculates the distance between 2 points in 2d space
     Notes: This method assumes p1 and p2 are in the format [x,y]
